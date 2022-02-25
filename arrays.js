@@ -39,7 +39,6 @@ const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
 
 // CODE HERE
 
-// I ended up doing some heavy research to solve this issue and found that the only way I could solve this problem was with a function indicator. If this is unexceptable please let me know. Thank you!
 
 function bigSmall (arr) {
 let answers = [];
